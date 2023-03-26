@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1727459",
+      "name": "224用户",
+      "font_class": "yonghu",
+      "unicode": "e8c8",
+      "unicode_decimal": 59592
+    },
+    {
+      "icon_id": "1727476",
+      "name": "235考勤、出勤",
+      "font_class": "kaoqinchuqin",
+      "unicode": "e8d0",
+      "unicode_decimal": 59600
+    },
+    {
+      "icon_id": "6928830",
+      "name": "课程",
+      "font_class": "kecheng",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "7384771",
+      "name": "课程管理",
+      "font_class": "kecheng1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12323755",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    }
+  ]
+}
